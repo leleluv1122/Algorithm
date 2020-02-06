@@ -1,4 +1,34 @@
-//11page
+/*
+ * package practice;
+ * 
+ * public class Main {
+ * 
+ * public static void main(String[] args) { String s0 = "hello world"; String s1
+ * = "HELLO WORLD"; String s2 = s0; String s3 = s1.toLowerCase();
+ * 
+ * boolean b0 = (s0 == s2); boolean b1 = (s0 == s3); boolean b2 = s0.equals(s2);
+ * boolean b3 = s0.equals(s3); System.out.printf("%b %b %b %b\n", b0, b1, b2,
+ * b3);
+ * 
+ * boolean b4 = s0.equals(s1); boolean b5 = s0.equalsIgnoreCase(s1);
+ * System.out.printf("%b %b\n", b4, b5); } }
+ */
+
+/*
+ * package practice;
+ * 
+ * public class Main {
+ * 
+ * static void swap(String a, String b) { String temp = a; a = b; b = temp; }
+ * 
+ * public static void main(String[] args) { String s0 = "hello world"; String s1
+ * = s0.substring(0, 5); String s2 = s0.substring(6); String s3 = s1 + " " + s2;
+ * String s4 = s0.toUpperCase(); System.out.printf("%s %s %s %s\n", s1, s2, s3,
+ * s4);
+ * 
+ * swap(s1, s2); //swap이 완료되면 swap메소드 메모리가 제거되서 변화없다
+ * System.out.printf("%s %s\n", s1, s2); } }
+ */
 
 /*
  * package practice;
