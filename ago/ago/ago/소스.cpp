@@ -1,3 +1,42 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main() {
+	int x = 0;
+	int y = 0;
+
+	scanf_s("%d", &x);
+	scanf_s("%d", &y);
+
+	int** arr = NULL;
+
+	arr = (int**)malloc(sizeof(int*) * x);
+	for (int i = 0; i < x; ++i)
+		arr[i] = (int*)malloc(sizeof(int) * y);
+	
+	int m;
+
+	for (int i = 0; i < x; ++i) {
+		for (int j = 0; j < y; ++j) {
+			m = 0;
+			arr[i][j] = scanf_s("%d", &m);
+		}
+	}
+
+	int answer = 0;
+
+	for (int i = 0; i < x; ++i) {
+		for (int j = 0; j < y; ++j) {
+			answer += arr[i][j];
+		}
+	}
+
+	printf("%d", answer);
+
+	for (int i = 0; i < x; ++i)
+		free(arr[i]);
+	system("pause");
+}
+
 //#include <stdio.h>
 //#include <stdlib.h>
 //void PrintInfo(char* name, int age, int number) {
