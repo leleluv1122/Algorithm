@@ -1,3 +1,61 @@
+//#include <iostream>
+//#include <string>
+//using namespace std;
+//int main() {
+//	string sik;
+//	int result = 0;
+//	bool minus = false;
+//	string t = "";
+//
+//	cin >> sik;
+//
+//	for (int i = 0; i <= sik.size(); ++i) {
+//		if (sik[i] == '+' || sik[i] == '-' || sik[i] == '\0') {
+//			if (minus)
+//				result -= stoi(t);
+//			else
+//				result += stoi(t);
+//			t = "";
+//			if (sik[i] == '-')
+//				minus = true;
+//			continue;
+//		}
+//		t += sik[i];
+//	}
+//	cout << result << endl;
+//}
+
+
+
+
+//#include <iostream>
+//#include <string>
+//using namespace std;
+//int main() {
+//	string sik;
+//	int r = 0;
+//	string t = "";
+//	bool minus = false;
+//
+//	cin >> sik;
+//
+//	for (int i = 0; i <= sik.size(); ++i) {
+//		if (sik[i] == '+' || sik[i] == '-'|| sik[i] == '\0') {
+//			if (minus)
+//				r -= stoi(t);
+//			else
+//				r += stoi(t);
+//			t = "";
+//			if (sik[i] == '-')
+//				minus = true;
+//			continue;
+//		}
+//		t += sik[i];
+//	}
+//	cout << r << endl;
+//}
+
+
 //#include <stdio.h>
 //int main() {
 //	int N, K;

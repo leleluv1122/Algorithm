@@ -1,51 +1,111 @@
-#include <stdio.h>
-#include <vector>
-#include <algorithm>
-using namespace std;
+//#include <stdio.h>
+//#include <vector>
+//#include <algorithm>
+//using namespace std;
+//
+//struct Meet {
+//	int start;
+//	int end;
+//};
+//
+//bool compare(Meet a, Meet b) {
+//	if (a.end != b.end)
+//		return a.end < b.end;
+//	else
+//		return a.start < b.start;
+//} //end가 작은순서 end가 같으면 start를 비교한다.
+//
+//int main()
+//{
+//	int N;
+//	scanf_s("%d", &N);
+//
+//	vector<Meet> meeting;
+//
+//	for (int i = 0; i < N; ++i) {
+//		Meet t;
+//		scanf_s("%d %d", &t.start, &t.end);
+//		meeting.push_back(t);
+//	}
+//
+//	sort(meeting.begin(), meeting.end(), compare);
+//
+//	int sta = meeting[0].start, en = meeting[0].end;
+//	int cnt = 1;
+//	for (int i = 1; i < N; ++i) {
+//		if (meeting[i].start >= en) {
+//			cnt++;
+//			sta = meeting[i].start;
+//			en = meeting[i].end;
+//		}
+//	}
+//	printf("%d", cnt);
+//}
 
-struct Meet
-{
-	int start;
-	int end;
-};
 
-bool compare(Meet a, Meet b) {
-	if (a.end != b.end) {
-		return a.end < b.end;
-	}
-	else {
-		return a.start < b.start;
-	}
-}
 
-int main() {
-	int N;
-	scanf_s("%d", &N); 
-	
-	vector<Meet> meeting;
 
-	for (int i = 0; i < N; ++i) {
-		Meet temp;
-		scanf_s("%d %d", &temp.start, &temp.end);
 
-		meeting.push_back(temp);
-	}
 
-	sort(meeting.begin(), meeting.end(), compare);
-	
-	int sta = meeting[0].start, en = meeting[0].end;
-	int cnt = 1;
 
-	for (int i = 1; i < N; ++i) {
-		if (meeting[i].start >= en) {
-			cnt++;
-			en = meeting[i].end;
-			sta = meeting[i].start;
-		}
-	}
 
-	printf("%d", cnt);
-}
+
+
+
+
+
+
+
+
+
+//#include <stdio.h>
+//#include <vector>
+//#include <algorithm>
+//using namespace std;
+//
+//struct Meet
+//{
+//	int start;
+//	int end;
+//};
+//
+//bool compare(Meet a, Meet b) {
+//	if (a.end != b.end) {
+//		return a.end < b.end;
+//	}
+//	else {
+//		return a.start < b.start;
+//	}
+//}
+//
+//int main() {
+//	int N;
+//	scanf_s("%d", &N); 
+//	
+//	vector<Meet> meeting;
+//
+//	for (int i = 0; i < N; ++i) {
+//		Meet temp;
+//		scanf_s("%d %d", &temp.start, &temp.end);
+//
+//		meeting.push_back(temp);
+//	}
+//
+//	sort(meeting.begin(), meeting.end(), compare);
+//	
+//	int sta = meeting[0].start, en = meeting[0].end;
+//	int cnt = 1;
+//
+//	for (int i = 1; i < N; ++i) {
+//		if (meeting[i].start >= en) {
+//			cnt++;
+//			en = meeting[i].end;
+//			sta = meeting[i].start;
+//		}
+//	}
+//
+//	printf("%d", cnt);
+//}
 
 //11
 //1 4

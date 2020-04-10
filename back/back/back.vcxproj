@@ -123,9 +123,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="30.cpp" />
     <ClCompile Include="ATM.cpp" />
+    <ClCompile Include="거스름돈.cpp" />
+    <ClCompile Include="대회_인턴.cpp" />
     <ClCompile Include="동전0.cpp" />
+    <ClCompile Include="로프.cpp" />
     <ClCompile Include="소스.cpp" />
+    <ClCompile Include="잃어버린_괄호.cpp" />
     <ClCompile Include="회의실배정.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
