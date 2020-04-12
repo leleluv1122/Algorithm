@@ -123,9 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1로만들기.cpp" />
     <ClCompile Include="30.cpp" />
     <ClCompile Include="ATM.cpp" />
     <ClCompile Include="거스름돈.cpp" />
+    <ClCompile Include="기타줄.cpp" />
     <ClCompile Include="대회_인턴.cpp" />
     <ClCompile Include="동전0.cpp" />
     <ClCompile Include="로프.cpp" />
