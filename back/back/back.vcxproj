@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1_2_3_더하기.cpp" />
     <ClCompile Include="1로만들기.cpp" />
     <ClCompile Include="30.cpp" />
     <ClCompile Include="ATM.cpp" />
@@ -135,6 +136,7 @@
     <ClCompile Include="소스.cpp" />
     <ClCompile Include="신입사원.cpp" />
     <ClCompile Include="잃어버린_괄호.cpp" />
+    <ClCompile Include="피보나치.cpp" />
     <ClCompile Include="회의실배정.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
