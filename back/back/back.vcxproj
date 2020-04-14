@@ -125,8 +125,10 @@
   <ItemGroup>
     <ClCompile Include="1_2_3_더하기.cpp" />
     <ClCompile Include="1로만들기.cpp" />
+    <ClCompile Include="2xn타일링.cpp" />
     <ClCompile Include="30.cpp" />
     <ClCompile Include="ATM.cpp" />
+    <ClCompile Include="RGB거리.cpp" />
     <ClCompile Include="거스름돈.cpp" />
     <ClCompile Include="기타줄.cpp" />
     <ClCompile Include="대회_인턴.cpp" />

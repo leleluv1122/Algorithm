@@ -1,3 +1,66 @@
+///////////score (3,3)까지 가는데 걸리는 최소거리(숫자합)///////
+//#include <iostream>
+//#include <algorithm>
+//using namespace std;
+//static int arr[4][4]{ { 6, 7, 12, 5 },
+//				{ 5, 3, 11, 18 }, 
+//				{ 7, 17, 3, 3 }, 
+//				{ 8, 10, 14, 9 } }; 
+//static int sum[4][4];
+//
+//int score(int r, int c) {
+//	int beforescore = 0;
+//
+//	if (r == 0 && c == 0)
+//		beforescore = 0;
+//	else if (r == 0)
+//		beforescore = score(r, c - 1);
+//	else if (c == 0)
+//		beforescore = score(r - 1, c);
+//	else
+//		beforescore = min(score(r - 1, c), score(r, c - 1));
+//	
+//	sum[r][c] = beforescore + arr[r][c];
+//	return sum[r][c];
+//}
+//int main() {
+//	cout << score(3, 3) << endl;
+//}
+
+//#include <stdio.h> 
+//#include <algorithm> 
+//using namespace std;
+//typedef unsigned char byte; 
+//byte a[4][4] = { { 6, 7, 12, 5 }, 
+//				{ 5, 3, 11, 18 }, 
+//				{ 7, 17, 3, 3 }, 
+//				{ 8, 10, 14, 9 } }; 
+//byte sum[4][4]; 
+//int score(int r, int c)
+//{ 
+//	printf("점수(%d, %d) ", r, c); 
+//	if (sum[r][c] != 0) 
+//		return sum[r][c]; 
+//	
+//	int beforescore = 0;
+//
+//	if (r == 0 && c == 0) 
+//		beforescore = 0;
+//	else if (r == 0) 
+//		beforescore = score(r, c - 1);
+//	else if (c == 0) 
+//		beforescore = score(r - 1, c);
+//	else 
+//		beforescore = min(score(r, c - 1), score(r - 1, c));
+//	
+//	sum[r][c] = beforescore + a[r][c]; 
+//
+//	return sum[r][c]; 
+//} 
+//int main() { 
+//	printf("%d\n", score(3, 3));
+//}
+
 //#include <iostream>
 //#include <algorithm>
 //using namespace std;
