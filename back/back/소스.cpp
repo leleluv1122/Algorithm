@@ -1,3 +1,8 @@
+
+
+
+
+
 ///////////score (3,3)까지 가는데 걸리는 최소거리(숫자합)///////
 //#include <iostream>
 //#include <algorithm>
