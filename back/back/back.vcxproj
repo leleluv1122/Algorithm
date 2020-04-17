@@ -137,6 +137,8 @@
     <ClCompile Include="동전0.cpp" />
     <ClCompile Include="로프.cpp" />
     <ClCompile Include="문자열.cpp" />
+    <ClCompile Include="보물.cpp" />
+    <ClCompile Include="새.cpp" />
     <ClCompile Include="소스.cpp" />
     <ClCompile Include="쉬운계단수.cpp" />
     <ClCompile Include="신입사원.cpp" />
@@ -147,6 +149,7 @@
     <ClCompile Include="포도주시식.cpp" />
     <ClCompile Include="피보나치.cpp" />
     <ClCompile Include="하얀_칸.cpp" />
+    <ClCompile Include="프로그래머수우level1.cpp" />
     <ClCompile Include="회의실배정.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
