@@ -131,12 +131,14 @@
     <ClCompile Include="RGB거리.cpp" />
     <ClCompile Include="거스름돈.cpp" />
     <ClCompile Include="계단오르기.cpp" />
+    <ClCompile Include="국영수.cpp" />
     <ClCompile Include="기타줄.cpp" />
     <ClCompile Include="대회_인턴.cpp" />
     <ClCompile Include="동전0.cpp" />
     <ClCompile Include="로프.cpp" />
     <ClCompile Include="문자열.cpp" />
     <ClCompile Include="소스.cpp" />
+    <ClCompile Include="쉬운계단수.cpp" />
     <ClCompile Include="신입사원.cpp" />
     <ClCompile Include="연속합.cpp" />
     <ClCompile Include="이친수.cpp" />
@@ -144,6 +146,7 @@
     <ClCompile Include="정수_삼각형.cpp" />
     <ClCompile Include="포도주시식.cpp" />
     <ClCompile Include="피보나치.cpp" />
+    <ClCompile Include="하얀_칸.cpp" />
     <ClCompile Include="회의실배정.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -81,5 +81,14 @@
     <ClCompile Include="연속합.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="쉬운계단수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="국영수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="하얀_칸.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
