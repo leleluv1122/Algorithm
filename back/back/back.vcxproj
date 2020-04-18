@@ -129,6 +129,7 @@
     <ClCompile Include="30.cpp" />
     <ClCompile Include="ATM.cpp" />
     <ClCompile Include="RGB거리.cpp" />
+    <ClCompile Include="가장긴증가하는부분수열.cpp" />
     <ClCompile Include="거스름돈.cpp" />
     <ClCompile Include="계단오르기.cpp" />
     <ClCompile Include="국영수.cpp" />

@@ -99,5 +99,8 @@
     <ClCompile Include="프로그래머수우level1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="가장긴증가하는부분수열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
