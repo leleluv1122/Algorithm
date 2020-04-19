@@ -126,8 +126,10 @@
     <ClCompile Include="1_2_3_더하기.cpp" />
     <ClCompile Include="1로만들기.cpp" />
     <ClCompile Include="2xn타일링.cpp" />
+    <ClCompile Include="2xn타일링2.cpp" />
     <ClCompile Include="30.cpp" />
     <ClCompile Include="ATM.cpp" />
+    <ClCompile Include="DNA.cpp" />
     <ClCompile Include="RGB거리.cpp" />
     <ClCompile Include="가장긴증가하는부분수열.cpp" />
     <ClCompile Include="거스름돈.cpp" />
@@ -146,7 +148,9 @@
     <ClCompile Include="연속합.cpp" />
     <ClCompile Include="이친수.cpp" />
     <ClCompile Include="잃어버린_괄호.cpp" />
+    <ClCompile Include="단계별.cpp" />
     <ClCompile Include="정수_삼각형.cpp" />
+    <ClCompile Include="파도반_수열.cpp" />
     <ClCompile Include="포도주시식.cpp" />
     <ClCompile Include="피보나치.cpp" />
     <ClCompile Include="하얀_칸.cpp" />
