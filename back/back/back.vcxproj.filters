@@ -114,5 +114,14 @@
     <ClCompile Include="단계별.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="카드_구매하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소트인사이드.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="수_정렬하기3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
