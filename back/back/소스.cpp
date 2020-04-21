@@ -1,4 +1,36 @@
-
+/////15954 ภฮวüต้
+//#include <cassert>
+//#include <cstdio>
+//#include <math.h>
+//#include <iostream>
+//#include <algorithm>
+//using namespace std;
+//int N, K;
+//int a[500];
+//int main()
+//{
+//	scanf_s("%d %d", &N, &K);
+//	for (int i = 0; i < N; ++i) {
+//		scanf_s("%d", &a[i]);
+//	}
+//	double result = 987654321;
+//	for (int i = 0; i < N - K + 1; ++i) {
+//		for (int k = K; k < N - i + 1; ++k) {
+//			int sum = 0;
+//			for (int j = i; j < i + k; ++j) {
+//				sum += a[j];
+//			}
+//			double m = sum / (double)k;
+//			double dsum = 0;
+//			for (int j = i; j < i + k; ++j) {
+//				dsum += (a[j] - m) * (a[j] - m);
+//			}
+//			result = min(result, sqrt(dsum / (double)k));
+//		}
+//	}
+//	printf("%.11lf\n", result);
+//	return 0;
+//}
 
 
 
