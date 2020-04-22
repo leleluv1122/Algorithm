@@ -131,6 +131,7 @@
     <ClCompile Include="ATM.cpp" />
     <ClCompile Include="DNA.cpp" />
     <ClCompile Include="RGB거리.cpp" />
+    <ClCompile Include="while문.cpp" />
     <ClCompile Include="가장긴증가하는부분수열.cpp" />
     <ClCompile Include="거스름돈.cpp" />
     <ClCompile Include="계단오르기.cpp" />
@@ -142,6 +143,9 @@
     <ClCompile Include="로프.cpp" />
     <ClCompile Include="문자열.cpp" />
     <ClCompile Include="보물.cpp" />
+    <ClCompile Include="재귀.cpp" />
+    <ClCompile Include="블랙잭.cpp" />
+    <ClCompile Include="설탕배달.cpp" />
     <ClCompile Include="카카오상금헌터.cpp" />
     <ClCompile Include="새.cpp" />
     <ClCompile Include="소스.cpp" />
