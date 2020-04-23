@@ -123,8 +123,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DFS알고리즘.cpp" />
     <ClCompile Include="for문.cpp" />
     <ClCompile Include="while문.cpp" />
+    <ClCompile Include="BFS알고리즘.cpp" />
+    <ClCompile Include="분해합.cpp" />
+    <ClCompile Include="퇴사.cpp" />
+    <ClCompile Include="일곱난쟁이.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
