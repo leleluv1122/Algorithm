@@ -36,5 +36,14 @@
     <ClCompile Include="분해합.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="사탕게임.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="체스판다시칠하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="평균은넘겠지.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

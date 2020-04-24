@@ -128,8 +128,11 @@
     <ClCompile Include="while문.cpp" />
     <ClCompile Include="BFS알고리즘.cpp" />
     <ClCompile Include="분해합.cpp" />
+    <ClCompile Include="사탕게임.cpp" />
+    <ClCompile Include="체스판다시칠하기.cpp" />
     <ClCompile Include="퇴사.cpp" />
     <ClCompile Include="일곱난쟁이.cpp" />
+    <ClCompile Include="평균은넘겠지.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
