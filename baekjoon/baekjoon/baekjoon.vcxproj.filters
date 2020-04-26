@@ -54,5 +54,17 @@
     <ClCompile Include="프린터큐.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="유레카_이론.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자야구.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="캠핑.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="수리공_항승.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
