@@ -1,25 +1,47 @@
 ///ธ๘วิ///
 
 
-//7
-//3 10
-//5 20
-//1 10
-//1 20
-//2 15
-//4 40
-//2 200
 
-//
+
+
 //#include <iostream>
 //#include <vector>
 //#include <algorithm>
 //using namespace std;
+//struct work {
+//	int day;
+//	int duringday;
+//	int money;
+//};
+//bool compare(work a, work b) {
+//	if (a.money > b.money)
+//		return true;
+//	return false;
+//}
 //int main()
 //{
-//
+//	int n;
+//	int sum = 0;
+//	vector<work> v;
+//	int r[16][3];
+//	cin >> n;
+//	for (int i = 0; i < n; i++) {
+//		work w; w.day = i + 1;
+//		cin >> w.duringday >> w.money;
+//		v.push_back(w);
+//	}
+//	sort(v.begin(), v.end(), compare);
+//	/*for (int i = 0; i < n; i++) {
+//		cout << v[i].day << " " << v[i].duringday << " "
+//			<< v[i].money << endl;
+//	}*/
+//	for (int i = 0; i < n; i++) {
+//		int a = v[i].day + v[i].duringday - 1;
+//		if (a < n) {
+//			
+//		}
+//	}
 //}
-
 
 
 

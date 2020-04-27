@@ -127,10 +127,13 @@
     <ClCompile Include="for문.cpp" />
     <ClCompile Include="while문.cpp" />
     <ClCompile Include="BFS알고리즘.cpp" />
+    <ClCompile Include="과제.cpp" />
     <ClCompile Include="두수비교하깅.cpp" />
+    <ClCompile Include="멀티탭_스케줄링.cpp" />
     <ClCompile Include="부분수열의_합.cpp" />
     <ClCompile Include="분해합.cpp" />
     <ClCompile Include="사탕게임.cpp" />
+    <ClCompile Include="센서.cpp" />
     <ClCompile Include="수리공_항승.cpp" />
     <ClCompile Include="숫자야구.cpp" />
     <ClCompile Include="유레카_이론.cpp" />
