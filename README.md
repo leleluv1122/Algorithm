@@ -42,42 +42,42 @@
  - 11727 [2xn 타일링 2](https://github.com/leleluv1122/Algorithm/blob/master/back/back/2xn%ED%83%80%EC%9D%BC%EB%A7%812.cpp)
  - 9461 [파도반 수열](https://github.com/leleluv1122/Algorithm/blob/master/back/back/%ED%8C%8C%EB%8F%84%EB%B0%98_%EC%88%98%EC%97%B4.cpp)
  - 1069 [DNA](https://github.com/leleluv1122/Algorithm/blob/master/back/back/DNA.cpp)
- - 10918 [We love kriii]
- - 1000 [A+B]
- - 10998 [AxB]
- - 15596 [정수 N개의 합]
- - 2750 [수 정렬하기]
- - 2751 [수 정렬하기2]
+ - 10918 We love kriii
+ - 1000 A+B
+ - 10998 AxB
+ - 15596 정수 N개의 합
+ - 2750 수 정렬하기
+ - 2751 수 정렬하기2
  - 11052 [카드 구매하기](https://github.com/leleluv1122/Algorithm/blob/master/back/back/%EC%B9%B4%EB%93%9C_%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0.cpp)
  - 1427 [소트인사이드](https://github.com/leleluv1122/Algorithm/blob/master/back/back/%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.cpp)
  - 10989 [수 정렬하기3](https://github.com/leleluv1122/Algorithm/blob/master/back/back/%EC%88%98_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03.cpp)
- - 10039 [평균 점수]
- - 5543 [상근날드]
- - 10817 [세 수]
- - 2523 [별 찍기 - 13]
- - 2446 [별 찍기 - 9]
- - 10996 [별 찍기 - 21]
+ - 10039 평균 점수
+ - 5543 상근날드
+ - 10817 세 수
+ - 2523 별 찍기 - 13
+ - 2446 별 찍기 - 9
+ - 10996 별 찍기 - 21
  - 15953 [상금 헌터](https://github.com/leleluv1122/Algorithm/blob/master/back/back/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%83%81%EA%B8%88%ED%97%8C%ED%84%B0.cpp)
  - 7568 [덩치](https://github.com/leleluv1122/Algorithm/blob/master/back/back/%EB%8D%A9%EC%B9%98.cpp)
  - 1065 [한수](https://github.com/leleluv1122/Algorithm/blob/master/back/back/%ED%95%9C%EC%88%98.cpp)
  - 2839 [설탕 배달](https://github.com/leleluv1122/Algorithm/blob/master/back/back/%EC%84%A4%ED%83%95%EB%B0%B0%EB%8B%AC.cpp)
  - 2798 [블랙잭](https://github.com/leleluv1122/Algorithm/blob/master/back/back/%EB%B8%94%EB%9E%99%EC%9E%AD.cpp)
- - 10872 [팩토리얼]
+ - 10872 팩토리얼
  - 10870 [피보나치 수 5](https://github.com/leleluv1122/Algorithm/blob/master/back/back/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98.cpp)
- - 2447 [벌 찍기 - 10]
- - 10952 [A+B - 5]
- - 10951 [A+B - 4]
- - 1110 [더하기 사이클]
- - 2739 [구구단]
- - 10950 [A+B - 3]
- - 8393 [합]
- - 15552 [빠른 A+B]
- - 2741 [N 찍기]
- - 2742 [기찍 N]
- - 11021 [A+B - 7]
- - 11022 [A+B - 8]
- - 2439 [별 찍기 - 2]
- - 10871 [X보다 작은 수]
+ - 2447 별 찍기 - 10
+ - 10952 A+B - 5
+ - 10951 A+B - 4
+ - 1110 더하기 사이클
+ - 2739 구구단
+ - 10950 A+B - 3
+ - 8393 합
+ - 15552 빠른 A+B
+ - 2741 N 찍기
+ - 2742 기찍 N
+ - 11021 A+B - 7
+ - 11022 A+B - 8
+ - 2439 별 찍기 - 2
+ - 10871 X보다 작은 수
  - 2309 [일곱 난쟁이](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4.cpp)
  - 2231 [분해합](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EB%B6%84%ED%95%B4%ED%95%A9.cpp)
  - 1018 [체스판 다시 칠하기](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%B2%B4%EC%8A%A4%ED%8C%90%EB%8B%A4%EC%8B%9C%EC%B9%A0%ED%95%98%EA%B8%B0.cpp)
@@ -91,4 +91,7 @@
  - 2212 [센서](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%84%BC%EC%84%9C.cpp)
  - 13904 [과제](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EA%B3%BC%EC%A0%9C.cpp)
  - 1700 [멀티탭 스케줄링](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EB%A9%80%ED%8B%B0%ED%83%AD_%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.cpp)
- - 10869 [사칙연산]
+ - 10869 사칙연산
+ - 11654 [아스키코드]()
+ - 1629 [곱셈]()
+ - 9465 [스티커]()
