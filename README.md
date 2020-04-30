@@ -95,3 +95,8 @@
  - 11654 [아스키코드](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%95%84%EC%8A%A4%ED%82%A4%EC%BD%94%EB%93%9C.cpp)
  - 1629 [곱셈](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EA%B3%B1%EC%85%88.cpp)
  - 9465 [스티커](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%8A%A4%ED%8B%B0%EC%BB%A4.cpp)
+ - 1904 [01타일](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/01%ED%83%80%EC%9D%BC.cpp)
+ - 11170 [0의 개수](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/0%EC%9D%98%EA%B0%9C%EC%88%98.cpp)
+ - 11722 [가장 긴 감소하는 부분 수열](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EA%B0%80%EC%9E%A5%EA%B8%B4%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.cpp)
+ - 11720 [숫자의 합](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%88%AB%EC%9E%90%EC%9D%98%ED%95%A9.cpp)
+ - 2675 [문자열 반복](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%B0%98%EB%B3%B5.cpp)
