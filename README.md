@@ -100,3 +100,5 @@
  - 11722 [가장 긴 감소하는 부분 수열](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EA%B0%80%EC%9E%A5%EA%B8%B4%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.cpp)
  - 11720 [숫자의 합](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%88%AB%EC%9E%90%EC%9D%98%ED%95%A9.cpp)
  - 2675 [문자열 반복](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%B0%98%EB%B3%B5.cpp)
+ - 1012 [유기농 배추](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.cpp)
+ - 9466 [텀 프로젝트](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.cpp)
