@@ -102,3 +102,7 @@
  - 2675 [문자열 반복](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%B0%98%EB%B3%B5.cpp)
  - 1012 [유기농 배추](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.cpp)
  - 9466 [텀 프로젝트](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.cpp)
+ - 11724 [연결 요소의 개수](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98%EA%B0%9C%EC%88%98.cpp)
+ - 1743 [음식물 피하기](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%9D%8C%EC%8B%9D%EB%AC%BC%ED%94%BC%ED%95%98%EA%B8%B0.cpp)
+ - 3613 [Java vs C++](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/Java_vs_Cpp.cpp)
+ - 2667 [단지번호붙이기](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.cpp)
