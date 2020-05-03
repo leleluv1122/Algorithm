@@ -133,6 +133,7 @@
     <ClCompile Include="BFS알고리즘.cpp" />
     <ClCompile Include="가장긴감소하는부분수열.cpp" />
     <ClCompile Include="강의실_배정.cpp" />
+    <ClCompile Include="경로찾기.cpp" />
     <ClCompile Include="곱셈.cpp" />
     <ClCompile Include="과제.cpp" />
     <ClCompile Include="단지번호붙이기.cpp" />
@@ -154,6 +155,7 @@
     <ClCompile Include="유기농배추.cpp" />
     <ClCompile Include="유레카_이론.cpp" />
     <ClCompile Include="음식물피하기.cpp" />
+    <ClCompile Include="적록색약.cpp" />
     <ClCompile Include="체스판다시칠하기.cpp" />
     <ClCompile Include="캠핑.cpp" />
     <ClCompile Include="텀프로젝트.cpp" />
