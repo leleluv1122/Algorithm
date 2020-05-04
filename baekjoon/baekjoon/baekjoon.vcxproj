@@ -150,6 +150,7 @@
     <ClCompile Include="숫자의합.cpp" />
     <ClCompile Include="스티커.cpp" />
     <ClCompile Include="아스키코드.cpp" />
+    <ClCompile Include="안전영역.cpp" />
     <ClCompile Include="연결요소의개수.cpp" />
     <ClCompile Include="영역구하기.cpp" />
     <ClCompile Include="유기농배추.cpp" />

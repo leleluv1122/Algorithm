@@ -1,4 +1,69 @@
-//// 너비우선탐색 (queue 사용)
+///////////// 너비우선탐색 (queue 사용)
+//#include <iostream>
+//#include <vector>
+//#include <queue>
+//#include <algorithm>
+//using namespace std;
+//
+//class Graph {
+//public:
+//	int N; // 정점의 개수
+//	vector<vector<int>> adj; // 인접 리스트
+//
+//	// 생성자
+//	Graph() : N(0) {}
+//	Graph(int n) : N(n) { adj.resize(N); }
+//
+//	// 간선 추가 함수
+//	void addEdge(int u, int v) {
+//		adj[u].push_back(v);
+//		adj[v].push_back(u);
+//	}
+//
+//	// 모든 리스트의 인접한 정점 번호 정렬
+//	void sortList() {
+//		for (int i = 0; i < N; i++)
+//			sort(adj[i].begin(), adj[i].end());
+//	}
+//
+//	// 너비 우선 탐색
+//	void bfs() {
+//		vector<bool> visited(N, false); // 방문 여부를 저장하는 배열
+//		queue<int> Q;
+//		Q.push(0);
+//		visited[0] = true;
+//		// 탐색 시작
+//		while (!Q.empty()) {
+//			int curr = Q.front();
+//			Q.pop();
+//			cout << "node " << curr << " visited" << endl;
+//			for (int next : adj[curr]) {
+//				if (!visited[next]) {
+//					visited[next] = true;
+//					Q.push(next);
+//				}
+//			}
+//		}
+//	}
+//};
+//
+//int main() {
+//	Graph G(9);
+//	G.addEdge(0, 1);
+//	G.addEdge(0, 2);
+//	G.addEdge(1, 3);
+//	G.addEdge(1, 5);
+//	G.addEdge(3, 4);
+//	G.addEdge(4, 5);
+//	G.addEdge(2, 6);
+//	G.addEdge(2, 8);
+//	G.addEdge(6, 7);
+//	G.addEdge(6, 8);
+//	G.sortList();
+//	G.bfs();
+//}
+
+
 
 //#include <iostream> 
 //#include <queue> 
@@ -6,10 +71,8 @@
 //using namespace std; 
 //int number = 9; 
 //int visit[9]; 
-//vector<int> a[10]; 
-//void bfs(int start){ 
-//	
-//} int main() { 
+//vector<int> a[10];
+//int main() { 
 //	// 1과 2를 연결 
 //	a[1].push_back(2); 
 //	a[2].push_back(1); 
