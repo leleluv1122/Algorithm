@@ -136,6 +136,7 @@
     <ClCompile Include="경로찾기.cpp" />
     <ClCompile Include="곱셈.cpp" />
     <ClCompile Include="과제.cpp" />
+    <ClCompile Include="나머지.cpp" />
     <ClCompile Include="단지번호붙이기.cpp" />
     <ClCompile Include="동전2.cpp" />
     <ClCompile Include="두수비교하깅.cpp" />
@@ -149,8 +150,10 @@
     <ClCompile Include="숫자야구.cpp" />
     <ClCompile Include="숫자의합.cpp" />
     <ClCompile Include="스티커.cpp" />
+    <ClCompile Include="시험성적.cpp" />
     <ClCompile Include="아스키코드.cpp" />
     <ClCompile Include="안전영역.cpp" />
+    <ClCompile Include="알람시계.cpp" />
     <ClCompile Include="연결요소의개수.cpp" />
     <ClCompile Include="영역구하기.cpp" />
     <ClCompile Include="유기농배추.cpp" />
@@ -158,6 +161,7 @@
     <ClCompile Include="음식물피하기.cpp" />
     <ClCompile Include="적록색약.cpp" />
     <ClCompile Include="체스판다시칠하기.cpp" />
+    <ClCompile Include="촌수계산.cpp" />
     <ClCompile Include="캠핑.cpp" />
     <ClCompile Include="텀프로젝트.cpp" />
     <ClCompile Include="퇴사.cpp" />
