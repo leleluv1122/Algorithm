@@ -110,3 +110,7 @@
  - 10026 [적록색약](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.cpp)
  - 11403 [경로찾기](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EA%B2%BD%EB%A1%9C%EC%B0%BE%EA%B8%B0.cpp)
  - 2468 [안전 영역](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.cpp)
+ - 2644 [촌수계산](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0.cpp)
+ - 10430 [나머지](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EB%82%98%EB%A8%B8%EC%A7%80.cpp)
+ - 2884 [알람 시계](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%95%8C%EB%9E%8C%EC%8B%9C%EA%B3%84.cpp)
+ - 9498 [시험 성적](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%8B%9C%ED%97%98%EC%84%B1%EC%A0%81.cpp)
