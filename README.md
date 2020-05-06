@@ -114,3 +114,6 @@
  - 10430 [나머지](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EB%82%98%EB%A8%B8%EC%A7%80.cpp)
  - 2884 [알람 시계](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%95%8C%EB%9E%8C%EC%8B%9C%EA%B3%84.cpp)
  - 9498 [시험 성적](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%8B%9C%ED%97%98%EC%84%B1%EC%A0%81.cpp)
+ - 2178 [미로 탐색](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.cpp)
+ - 7562 [나이트의 이동](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%EC%9D%B4%EB%8F%99.cpp)
+ - 5014 [스타트링크](https://github.com/leleluv1122/Algorithm/blob/master/baekjoon/baekjoon/%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC.cpp)
