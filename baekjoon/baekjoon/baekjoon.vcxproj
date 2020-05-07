@@ -146,6 +146,7 @@
     <ClCompile Include="미로탐색.cpp" />
     <ClCompile Include="부분수열의_합.cpp" />
     <ClCompile Include="분해합.cpp" />
+    <ClCompile Include="불.cpp" />
     <ClCompile Include="사탕게임.cpp" />
     <ClCompile Include="센서.cpp" />
     <ClCompile Include="수리공_항승.cpp" />
