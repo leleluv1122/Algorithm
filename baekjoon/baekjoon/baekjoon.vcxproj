@@ -125,10 +125,15 @@
   <ItemGroup>
     <ClCompile Include="01타일.cpp" />
     <ClCompile Include="0의개수.cpp" />
+    <ClCompile Include="DFSandBFS.cpp" />
     <ClCompile Include="DFS알고리즘.cpp" />
     <ClCompile Include="DP계획법기초.cpp" />
     <ClCompile Include="for문.cpp" />
     <ClCompile Include="Java_vs_Cpp.cpp" />
+    <ClCompile Include="p1.cpp" />
+    <ClCompile Include="p2.cpp" />
+    <ClCompile Include="p3.cpp" />
+    <ClCompile Include="p4.cpp" />
     <ClCompile Include="while문.cpp" />
     <ClCompile Include="BFS알고리즘.cpp" />
     <ClCompile Include="가장긴감소하는부분수열.cpp" />
@@ -144,6 +149,7 @@
     <ClCompile Include="멀티탭_스케줄링.cpp" />
     <ClCompile Include="문자열반복.cpp" />
     <ClCompile Include="미로탐색.cpp" />
+    <ClCompile Include="벽부수고이동하기.cpp" />
     <ClCompile Include="부분수열의_합.cpp" />
     <ClCompile Include="분해합.cpp" />
     <ClCompile Include="불.cpp" />
@@ -167,6 +173,7 @@
     <ClCompile Include="체스판다시칠하기.cpp" />
     <ClCompile Include="촌수계산.cpp" />
     <ClCompile Include="캠핑.cpp" />
+    <ClCompile Include="탈출.cpp" />
     <ClCompile Include="텀프로젝트.cpp" />
     <ClCompile Include="퇴사.cpp" />
     <ClCompile Include="일곱난쟁이.cpp" />
