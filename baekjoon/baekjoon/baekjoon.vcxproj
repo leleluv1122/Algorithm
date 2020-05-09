@@ -132,7 +132,6 @@
     <ClCompile Include="Java_vs_Cpp.cpp" />
     <ClCompile Include="p1.cpp" />
     <ClCompile Include="p2.cpp" />
-    <ClCompile Include="p3.cpp" />
     <ClCompile Include="p4.cpp" />
     <ClCompile Include="while문.cpp" />
     <ClCompile Include="BFS알고리즘.cpp" />
@@ -156,6 +155,7 @@
     <ClCompile Include="사탕게임.cpp" />
     <ClCompile Include="센서.cpp" />
     <ClCompile Include="수리공_항승.cpp" />
+    <ClCompile Include="숨바꼭질.cpp" />
     <ClCompile Include="숫자야구.cpp" />
     <ClCompile Include="숫자의합.cpp" />
     <ClCompile Include="스타트링크.cpp" />
@@ -175,6 +175,7 @@
     <ClCompile Include="캠핑.cpp" />
     <ClCompile Include="탈출.cpp" />
     <ClCompile Include="텀프로젝트.cpp" />
+    <ClCompile Include="토마토.cpp" />
     <ClCompile Include="퇴사.cpp" />
     <ClCompile Include="일곱난쟁이.cpp" />
     <ClCompile Include="평균은넘겠지.cpp" />
