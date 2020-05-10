@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="01타일.cpp" />
     <ClCompile Include="0의개수.cpp" />
+    <ClCompile Include="16397탈출.cpp" />
     <ClCompile Include="DFSandBFS.cpp" />
     <ClCompile Include="DFS알고리즘.cpp" />
     <ClCompile Include="DP계획법기초.cpp" />
@@ -153,6 +154,7 @@
     <ClCompile Include="분해합.cpp" />
     <ClCompile Include="불.cpp" />
     <ClCompile Include="사탕게임.cpp" />
+    <ClCompile Include="섬의개수.cpp" />
     <ClCompile Include="센서.cpp" />
     <ClCompile Include="수리공_항승.cpp" />
     <ClCompile Include="숨바꼭질.cpp" />
@@ -165,6 +167,7 @@
     <ClCompile Include="안전영역.cpp" />
     <ClCompile Include="알람시계.cpp" />
     <ClCompile Include="연결요소의개수.cpp" />
+    <ClCompile Include="연구소.cpp" />
     <ClCompile Include="영역구하기.cpp" />
     <ClCompile Include="유기농배추.cpp" />
     <ClCompile Include="유레카_이론.cpp" />
