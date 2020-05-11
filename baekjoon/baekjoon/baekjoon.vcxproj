@@ -126,6 +126,7 @@
     <ClCompile Include="01타일.cpp" />
     <ClCompile Include="0의개수.cpp" />
     <ClCompile Include="16397탈출.cpp" />
+    <ClCompile Include="2588곱셈.cpp" />
     <ClCompile Include="DFSandBFS.cpp" />
     <ClCompile Include="DFS알고리즘.cpp" />
     <ClCompile Include="DP계획법기초.cpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="단지번호붙이기.cpp" />
     <ClCompile Include="동전2.cpp" />
     <ClCompile Include="두수비교하깅.cpp" />
+    <ClCompile Include="말이되고픈원숭이.cpp" />
     <ClCompile Include="멀티탭_스케줄링.cpp" />
     <ClCompile Include="문자열반복.cpp" />
     <ClCompile Include="미로탐색.cpp" />
@@ -153,9 +155,11 @@
     <ClCompile Include="부분수열의_합.cpp" />
     <ClCompile Include="분해합.cpp" />
     <ClCompile Include="불.cpp" />
+    <ClCompile Include="사분면고르기.cpp" />
     <ClCompile Include="사탕게임.cpp" />
     <ClCompile Include="섬의개수.cpp" />
     <ClCompile Include="센서.cpp" />
+    <ClCompile Include="소수경로.cpp" />
     <ClCompile Include="수리공_항승.cpp" />
     <ClCompile Include="숨바꼭질.cpp" />
     <ClCompile Include="숫자야구.cpp" />
