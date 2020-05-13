@@ -1,3 +1,52 @@
+// 2ÁøÅ½»ö
+
+//#include <iostream>
+//#include <string>
+//#include <vector>
+//#include <algorithm>
+//using namespace std;
+//
+//bool bsearch(int a, int b, string name, vector<string> d) {
+//	if (a > b)
+//		return false;
+//	else {
+//		int mid = (a + b) / 2;
+//
+//		if (d[mid] == name)
+//			return true;
+//		else if (d[mid] > name)
+//			return bsearch(0, mid - 1, name, d);
+//		else
+//			return bsearch(mid + 1, b, name, d);
+//	}
+//	
+//}
+//
+//int main() {
+//	int N, M;
+//	cin >> N >> M;
+//	vector<string> d;
+//	for (int i = 0; i < N; i++) {
+//		string a; cin >> a;
+//		d.push_back(a);
+//	}
+//	sort(d.begin(), d.end());
+//
+//	vector<string> bo;
+//	for (int i = 0; i < M; i++) {
+//		string name; cin >> name;
+//		if (bsearch(0, i, name, d)) {
+//			bo.push_back(name);
+//		}
+//	}
+//	sort(bo.begin(), bo.end());
+//	for (int i = 0; i < bo.size(); i++) {
+//		cout << bo[i] << endl;
+//	}
+//}
+
+
+
 //#include <iostream>
 //#include <string>
 //#include <vector>
