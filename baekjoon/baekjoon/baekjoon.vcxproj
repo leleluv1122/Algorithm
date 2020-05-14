@@ -147,7 +147,9 @@
     <ClCompile Include="공약수.cpp" />
     <ClCompile Include="과제.cpp" />
     <ClCompile Include="구슬탈출.cpp" />
+    <ClCompile Include="기타레슨.cpp" />
     <ClCompile Include="나머지.cpp" />
+    <ClCompile Include="나무자르기.cpp" />
     <ClCompile Include="나이순정렬.cpp" />
     <ClCompile Include="나이트의이동.cpp" />
     <ClCompile Include="단어정렬.cpp" />
@@ -183,6 +185,8 @@
     <ClCompile Include="연결요소의개수.cpp" />
     <ClCompile Include="연구소.cpp" />
     <ClCompile Include="영역구하기.cpp" />
+    <ClCompile Include="예산.cpp" />
+    <ClCompile Include="용돈관리.cpp" />
     <ClCompile Include="유기농배추.cpp" />
     <ClCompile Include="유레카_이론.cpp" />
     <ClCompile Include="음식물피하기.cpp" />
