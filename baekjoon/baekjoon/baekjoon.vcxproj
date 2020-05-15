@@ -145,6 +145,7 @@
     <ClCompile Include="경로찾기.cpp" />
     <ClCompile Include="곱셈.cpp" />
     <ClCompile Include="공약수.cpp" />
+    <ClCompile Include="공유기설치.cpp" />
     <ClCompile Include="과제.cpp" />
     <ClCompile Include="구슬탈출.cpp" />
     <ClCompile Include="기타레슨.cpp" />
@@ -157,6 +158,7 @@
     <ClCompile Include="동전2.cpp" />
     <ClCompile Include="두수비교하깅.cpp" />
     <ClCompile Include="듣보잡.cpp" />
+    <ClCompile Include="랜선자르기.cpp" />
     <ClCompile Include="로또.cpp" />
     <ClCompile Include="말이되고픈원숭이.cpp" />
     <ClCompile Include="멀티탭_스케줄링.cpp" />
@@ -182,6 +184,7 @@
     <ClCompile Include="아스키코드.cpp" />
     <ClCompile Include="안전영역.cpp" />
     <ClCompile Include="알람시계.cpp" />
+    <ClCompile Include="알파벳.cpp" />
     <ClCompile Include="연결요소의개수.cpp" />
     <ClCompile Include="연구소.cpp" />
     <ClCompile Include="영역구하기.cpp" />
