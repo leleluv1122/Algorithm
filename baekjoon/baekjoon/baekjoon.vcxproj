@@ -178,6 +178,8 @@
     <ClCompile Include="숨바꼭질.cpp" />
     <ClCompile Include="숫자야구.cpp" />
     <ClCompile Include="숫자의합.cpp" />
+    <ClCompile Include="숫자카드.cpp" />
+    <ClCompile Include="숫자카드2.cpp" />
     <ClCompile Include="스타트링크.cpp" />
     <ClCompile Include="스티커.cpp" />
     <ClCompile Include="시험성적.cpp" />
