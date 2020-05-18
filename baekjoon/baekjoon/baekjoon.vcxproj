@@ -165,6 +165,7 @@
     <ClCompile Include="문자열반복.cpp" />
     <ClCompile Include="미로탐색.cpp" />
     <ClCompile Include="바이러스.cpp" />
+    <ClCompile Include="버블소트.cpp" />
     <ClCompile Include="벽부수고이동하기.cpp" />
     <ClCompile Include="부분수열의_합.cpp" />
     <ClCompile Include="분해합.cpp" />
@@ -187,6 +188,7 @@
     <ClCompile Include="안전영역.cpp" />
     <ClCompile Include="알람시계.cpp" />
     <ClCompile Include="알파벳.cpp" />
+    <ClCompile Include="암호만들기.cpp" />
     <ClCompile Include="연결요소의개수.cpp" />
     <ClCompile Include="연구소.cpp" />
     <ClCompile Include="영역구하기.cpp" />

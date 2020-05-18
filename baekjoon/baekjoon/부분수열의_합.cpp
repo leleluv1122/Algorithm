@@ -1,3 +1,37 @@
+/////백트래킹
+//#include <iostream>
+//#define endl "\n"
+//using namespace std;
+//int N, S, val[20];
+//int cnt, currentSum;
+//
+//void dfs(int current) {
+//	if (current == N)
+//		return;
+//	if (currentSum + val[current] == S)
+//		cnt++;
+//
+//	dfs(current + 1);
+//
+//	currentSum += val[current];
+//	dfs(current + 1);
+//
+//	currentSum -= val[current];
+//}
+//
+//int main() {
+//	cin >> N >> S;
+//	for (int i = 0; i < N; i++)
+//		cin >> val[i];
+//	dfs(0);
+//	cout << cnt << endl;
+//}
+
+
+
+
+
+////브루트포스
 //#include <iostream>
 //using namespace std;
 //int N, S, sum = 0, result = 0;
