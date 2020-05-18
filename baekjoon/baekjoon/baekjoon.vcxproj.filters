@@ -276,5 +276,11 @@
     <ClCompile Include="버블소트.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="병든나이트.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="롤러코스터.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
