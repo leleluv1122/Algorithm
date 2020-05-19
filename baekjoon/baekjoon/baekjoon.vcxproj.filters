@@ -282,5 +282,14 @@
     <ClCompile Include="롤러코스터.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="수묶기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="수들의합2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="리모컨.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

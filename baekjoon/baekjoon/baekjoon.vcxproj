@@ -161,6 +161,7 @@
     <ClCompile Include="랜선자르기.cpp" />
     <ClCompile Include="로또.cpp" />
     <ClCompile Include="롤러코스터.cpp" />
+    <ClCompile Include="리모컨.cpp" />
     <ClCompile Include="말이되고픈원숭이.cpp" />
     <ClCompile Include="멀티탭_스케줄링.cpp" />
     <ClCompile Include="문자열반복.cpp" />
@@ -177,7 +178,9 @@
     <ClCompile Include="섬의개수.cpp" />
     <ClCompile Include="센서.cpp" />
     <ClCompile Include="소수경로.cpp" />
+    <ClCompile Include="수들의합2.cpp" />
     <ClCompile Include="수리공_항승.cpp" />
+    <ClCompile Include="수묶기.cpp" />
     <ClCompile Include="숨바꼭질.cpp" />
     <ClCompile Include="숫자야구.cpp" />
     <ClCompile Include="숫자의합.cpp" />
