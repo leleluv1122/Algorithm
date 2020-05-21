@@ -148,6 +148,7 @@
     <ClCompile Include="공유기설치.cpp" />
     <ClCompile Include="과제.cpp" />
     <ClCompile Include="구슬탈출.cpp" />
+    <ClCompile Include="그룹단어체커.cpp" />
     <ClCompile Include="기타레슨.cpp" />
     <ClCompile Include="나머지.cpp" />
     <ClCompile Include="나무자르기.cpp" />
@@ -170,6 +171,7 @@
     <ClCompile Include="미로탐색.cpp" />
     <ClCompile Include="바이러스.cpp" />
     <ClCompile Include="버블소트.cpp" />
+    <ClCompile Include="베스트셀러.cpp" />
     <ClCompile Include="벽부수고이동하기.cpp" />
     <ClCompile Include="병든나이트.cpp" />
     <ClCompile Include="부분수열의_합.cpp" />
@@ -199,6 +201,7 @@
     <ClCompile Include="연결요소의개수.cpp" />
     <ClCompile Include="연구소.cpp" />
     <ClCompile Include="영역구하기.cpp" />
+    <ClCompile Include="영화감독숌.cpp" />
     <ClCompile Include="예산.cpp" />
     <ClCompile Include="용돈관리.cpp" />
     <ClCompile Include="유기농배추.cpp" />
