@@ -155,6 +155,7 @@
     <ClCompile Include="나이순정렬.cpp" />
     <ClCompile Include="나이트의이동.cpp" />
     <ClCompile Include="날짜계산.cpp" />
+    <ClCompile Include="다리만들기.cpp" />
     <ClCompile Include="단어정렬.cpp" />
     <ClCompile Include="단지번호붙이기.cpp" />
     <ClCompile Include="동전2.cpp" />
@@ -166,6 +167,7 @@
     <ClCompile Include="리모컨.cpp" />
     <ClCompile Include="말이되고픈원숭이.cpp" />
     <ClCompile Include="멀티탭_스케줄링.cpp" />
+    <ClCompile Include="문서검색.cpp" />
     <ClCompile Include="문자열반복.cpp" />
     <ClCompile Include="물통.cpp" />
     <ClCompile Include="미로탐색.cpp" />
@@ -211,9 +213,11 @@
     <ClCompile Include="좌표정렬하기.cpp" />
     <ClCompile Include="좌표정렬하기2.cpp" />
     <ClCompile Include="차이를_최대로.cpp" />
+    <ClCompile Include="책_페이지.cpp" />
     <ClCompile Include="체스판다시칠하기.cpp" />
     <ClCompile Include="촌수계산.cpp" />
     <ClCompile Include="캠핑.cpp" />
+    <ClCompile Include="케빈베이컨의6단계법칙.cpp" />
     <ClCompile Include="탈출.cpp" />
     <ClCompile Include="텀프로젝트.cpp" />
     <ClCompile Include="토마토.cpp" />

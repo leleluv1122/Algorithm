@@ -309,5 +309,17 @@
     <ClCompile Include="베스트셀러.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="문서검색.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="책_페이지.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="케빈베이컨의6단계법칙.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="다리만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
