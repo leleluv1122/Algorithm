@@ -182,11 +182,13 @@
     <ClCompile Include="사분면고르기.cpp" />
     <ClCompile Include="사탕게임.cpp" />
     <ClCompile Include="섬의개수.cpp" />
+    <ClCompile Include="성지키기.cpp" />
     <ClCompile Include="센서.cpp" />
     <ClCompile Include="소수경로.cpp" />
     <ClCompile Include="수들의합2.cpp" />
     <ClCompile Include="수리공_항승.cpp" />
     <ClCompile Include="수묶기.cpp" />
+    <ClCompile Include="수열의합.cpp" />
     <ClCompile Include="숨바꼭질.cpp" />
     <ClCompile Include="숫자야구.cpp" />
     <ClCompile Include="숫자의합.cpp" />
@@ -210,6 +212,7 @@
     <ClCompile Include="유레카_이론.cpp" />
     <ClCompile Include="음식물피하기.cpp" />
     <ClCompile Include="적록색약.cpp" />
+    <ClCompile Include="적어도_대부분의_배수.cpp" />
     <ClCompile Include="좌표정렬하기.cpp" />
     <ClCompile Include="좌표정렬하기2.cpp" />
     <ClCompile Include="차이를_최대로.cpp" />
@@ -223,6 +226,7 @@
     <ClCompile Include="토마토.cpp" />
     <ClCompile Include="퇴사.cpp" />
     <ClCompile Include="일곱난쟁이.cpp" />
+    <ClCompile Include="트로피진열.cpp" />
     <ClCompile Include="평균은넘겠지.cpp" />
     <ClCompile Include="프린터큐.cpp" />
   </ItemGroup>
