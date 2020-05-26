@@ -176,9 +176,12 @@
     <ClCompile Include="베스트셀러.cpp" />
     <ClCompile Include="벽부수고이동하기.cpp" />
     <ClCompile Include="병든나이트.cpp" />
+    <ClCompile Include="보물섬.cpp" />
+    <ClCompile Include="부등호.cpp" />
     <ClCompile Include="부분수열의_합.cpp" />
     <ClCompile Include="분해합.cpp" />
     <ClCompile Include="불.cpp" />
+    <ClCompile Include="빙산.cpp" />
     <ClCompile Include="사분면고르기.cpp" />
     <ClCompile Include="사탕게임.cpp" />
     <ClCompile Include="섬의개수.cpp" />
@@ -229,6 +232,7 @@
     <ClCompile Include="트로피진열.cpp" />
     <ClCompile Include="평균은넘겠지.cpp" />
     <ClCompile Include="프린터큐.cpp" />
+    <ClCompile Include="행렬.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
