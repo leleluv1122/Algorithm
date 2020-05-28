@@ -187,10 +187,12 @@
     <ClCompile Include="사분면고르기.cpp" />
     <ClCompile Include="사탕게임.cpp" />
     <ClCompile Include="상근이의여행.cpp" />
+    <ClCompile Include="상범빌딩.cpp" />
     <ClCompile Include="섬의개수.cpp" />
     <ClCompile Include="성지키기.cpp" />
     <ClCompile Include="센서.cpp" />
     <ClCompile Include="소수경로.cpp" />
+    <ClCompile Include="맥주마시면서걸어가기.cpp" />
     <ClCompile Include="수들의합2.cpp" />
     <ClCompile Include="수리공_항승.cpp" />
     <ClCompile Include="수묶기.cpp" />
@@ -208,6 +210,7 @@
     <ClCompile Include="알람시계.cpp" />
     <ClCompile Include="알파벳.cpp" />
     <ClCompile Include="암호만들기.cpp" />
+    <ClCompile Include="역사.cpp" />
     <ClCompile Include="연결요소의개수.cpp" />
     <ClCompile Include="연구소.cpp" />
     <ClCompile Include="영역구하기.cpp" />

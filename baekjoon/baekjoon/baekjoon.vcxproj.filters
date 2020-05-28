@@ -357,5 +357,14 @@
     <ClCompile Include="링.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="상범빌딩.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="맥주마시면서걸어가기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="역사.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
