@@ -220,6 +220,7 @@
     <ClCompile Include="유기농배추.cpp" />
     <ClCompile Include="유레카_이론.cpp" />
     <ClCompile Include="음식물피하기.cpp" />
+    <ClCompile Include="저울.cpp" />
     <ClCompile Include="적록색약.cpp" />
     <ClCompile Include="적어도_대부분의_배수.cpp" />
     <ClCompile Include="좌표정렬하기.cpp" />
@@ -231,14 +232,17 @@
     <ClCompile Include="최댓값.cpp" />
     <ClCompile Include="캠핑.cpp" />
     <ClCompile Include="케빈베이컨의6단계법칙.cpp" />
+    <ClCompile Include="키순서.cpp" />
     <ClCompile Include="탈출.cpp" />
     <ClCompile Include="텀프로젝트.cpp" />
     <ClCompile Include="토마토.cpp" />
     <ClCompile Include="퇴사.cpp" />
     <ClCompile Include="일곱난쟁이.cpp" />
     <ClCompile Include="트로피진열.cpp" />
+    <ClCompile Include="파티.cpp" />
     <ClCompile Include="평균은넘겠지.cpp" />
     <ClCompile Include="프린터큐.cpp" />
+    <ClCompile Include="플로이드.cpp" />
     <ClCompile Include="행렬.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
