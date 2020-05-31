@@ -217,6 +217,7 @@
     <ClCompile Include="영화감독숌.cpp" />
     <ClCompile Include="예산.cpp" />
     <ClCompile Include="용돈관리.cpp" />
+    <ClCompile Include="운동.cpp" />
     <ClCompile Include="유기농배추.cpp" />
     <ClCompile Include="유레카_이론.cpp" />
     <ClCompile Include="음식물피하기.cpp" />
