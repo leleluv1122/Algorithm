@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\1753">
+      <UniqueIdentifier>{da7fac0f-8a2e-48d5-a046-17aacb96a99f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1916">
+      <UniqueIdentifier>{fa11bb32-f00e-43a7-8d47-e6116a94c626}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="while문.cpp">
@@ -379,6 +385,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="운동.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>소스 파일\1753</Filter>
+    </ClCompile>
+    <ClCompile Include="최소비용구하기.cpp">
+      <Filter>소스 파일\1916</Filter>
+    </ClCompile>
+    <ClCompile Include="특정한_최단_경로.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
