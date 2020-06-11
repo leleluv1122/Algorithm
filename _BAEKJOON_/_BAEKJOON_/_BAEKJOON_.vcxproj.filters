@@ -102,5 +102,17 @@
     <ClCompile Include="1991_트리_순회.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1167_트리의_지름.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12865_평범한_배낭.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11725_트리의_부모_찾기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PG_K_번째_수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
