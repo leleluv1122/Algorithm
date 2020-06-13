@@ -114,5 +114,14 @@
     <ClCompile Include="PG_K_번째_수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14728_벼락치기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1918_후위_표기식.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13549_숨바꼭질2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
