@@ -123,5 +123,14 @@
     <ClCompile Include="13549_숨바꼭질2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1699_제곱수의_합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14501_퇴사.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1309_동물원.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
