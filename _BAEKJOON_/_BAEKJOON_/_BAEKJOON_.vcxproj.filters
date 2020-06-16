@@ -135,5 +135,17 @@
     <ClCompile Include="1707_이분_그래프.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11000_강의실_배정.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1786_찾기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15654_N과_M(5).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11660_구간_합_구하기5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
