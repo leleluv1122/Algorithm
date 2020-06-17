@@ -147,5 +147,11 @@
     <ClCompile Include="11660_구간_합_구하기5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="15652_N과_M(4).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1967_트리의_지름.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
