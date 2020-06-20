@@ -162,5 +162,14 @@
     <ClCompile Include="18119_단어암기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="13975_파일합치기3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16953_A-B.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11779_최소비용_구하기2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
