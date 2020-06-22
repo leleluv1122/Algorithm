@@ -161,6 +161,7 @@
     <ClCompile Include="3184_양.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="4485_녹색_옷_입은_애가_젤다지.cpp" />
     <ClCompile Include="6359_만취한_상범.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
