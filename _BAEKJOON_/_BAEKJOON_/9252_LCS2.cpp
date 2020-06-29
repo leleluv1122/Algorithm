@@ -18,17 +18,17 @@ int main() {
 	init();
 	cin >> a >> b;
 
-	a = '0' + a; 
+	a = '0' + a;
 	b = '0' + b;
 
-	for (int i = 1; i < a.size(); i++) 
+	for (int i = 1; i < a.size(); i++)
 		for (int j = 1; j < b.size(); j++) {
 			dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]);
 			if (a[i] == b[j])
 				dp[i][j] = max(dp[i][j], dp[i - 1][j - 1] + 1);
 		}
 
-	cout << dp[a.size() - 1][b.size() - 1] << endl;
+	cout << dp[a.size() - 1][b.size() - 1] << endl; 
 
 	int Asize = a.size() - 1, Bsize = b.size() - 1;
 	while (Asize * Bsize) {
@@ -36,7 +36,7 @@ int main() {
 			Asize--;
 		else if (dp[Asize][Bsize] == dp[Asize][Bsize - 1])
 			Bsize--;
-		else 
+		else
 			ans = a[Asize] + ans, Asize--, Bsize--;
 	}
 
@@ -76,7 +76,7 @@ int main() {
 //			else {
 //				if (dp[i - 1][j].size() > dp[i][j - 1].size()) {
 //					dp[i][j] = dp[i - 1][j];
-//				}
+//				} 
 //				else {
 //					dp[i][j] = dp[i][j - 1];
 //				}

@@ -5,14 +5,14 @@
 #define MOD 1000000000
 using namespace std;
 
-int N, K;
+int N, K; 
 long long dp[MAX][MAX];
-
+ 
 void init() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);
-}
+} 
 
 int main() {
 	init();

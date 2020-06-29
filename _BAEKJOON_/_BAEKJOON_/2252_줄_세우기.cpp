@@ -7,7 +7,7 @@ using namespace std;
 
 int N, M;
 vector<int> v[32001];
-int end_person[32001];
+int end_person[32001]; 
 queue<int> q;
 
 void init() {
@@ -17,7 +17,7 @@ void init() {
 }
 
 int main() {
-	init(); 
+	init();
 	cin >> N >> M;
 
 	for (int i = 0; i < M; i++) {
@@ -34,7 +34,7 @@ int main() {
 	while (!q.empty()) {
 		int temp = q.front();
 		q.pop();
-		
+
 		cout << temp << " ";
 
 		for (int i = 0; i < v[temp].size(); i++) {
