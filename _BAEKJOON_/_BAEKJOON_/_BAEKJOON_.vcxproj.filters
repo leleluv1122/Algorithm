@@ -201,5 +201,14 @@
     <ClCompile Include="4948_베르트랑_공준.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2225_합분해.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9252_LCS2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2252_줄_세우기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
