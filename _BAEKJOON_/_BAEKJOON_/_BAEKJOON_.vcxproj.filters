@@ -210,5 +210,17 @@
     <ClCompile Include="2252_줄_세우기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5582_공통_부분_문자열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LCS%28공통부분수열%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1958_LCS3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13711_LCS_4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
