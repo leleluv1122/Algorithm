@@ -12,6 +12,20 @@
  <https://www.acmicpc.net/>
 
 ## 풀이 링크
+ - 13711 [LCS 4](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/13711_LCS_4.cpp)
+ - 1958 [LCS 3](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1958_LCS3.cpp)
+ - 5582 [공통 부분 문자열](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/5582_%EA%B3%B5%ED%86%B5_%EB%B6%80%EB%B6%84_%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)
+ - 2252 [줄 세우기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2252_%EC%A4%84_%EC%84%B8%EC%9A%B0%EA%B8%B0.cpp)
+ - 9252 [LCS 2](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/9252_LCS2.cpp)
+ - 2225 [합분해](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2225_%ED%95%A9%EB%B6%84%ED%95%B4.cpp)
+ - 4948 [베르트랑 공준](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/4948_%EB%B2%A0%EB%A5%B4%ED%8A%B8%EB%9E%91_%EA%B3%B5%EC%A4%80.cpp)
+ - 15353 [큰 수 A+B 2](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/15353_%ED%81%B0_%EC%88%98_A%2BB2.cpp)
+ - 6679 [싱기한 네자리 숫자](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/6679_%EC%8B%B1%EA%B8%B0%ED%95%9C_%EB%84%A4%EC%9E%90%EB%A6%AC_%EC%88%AB%EC%9E%90.cpp)
+ - 1005 [ACM Craft](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1005_ACM_Craft.cpp)
+ - 1748 [수 이어 쓰기 1](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1748_%EC%88%98_%EC%9D%B4%EC%96%B4_%EC%93%B0%EA%B8%B01.cpp)
+ - 14888 [연산자 끼워넣기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/14888_%EC%97%B0%EC%82%B0%EC%9E%90_%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.cpp)
+ - 15686 [치킨 배달](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/15686_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.cpp)
+ - 2292 [벌집](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2292_%EB%B2%8C%EC%A7%91.cpp)
  - 1965 [상자넣기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1965_%EC%83%81%EC%9E%90%EB%84%A3%EA%B8%B0.cpp)
  - 1937 [욕심쟁이 판다](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1937_%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4_%ED%8C%90%EB%8B%A4.cpp)
  - 1138 [한 줄로 서기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1138_%ED%95%9C_%EC%A4%84%EB%A1%9C_%EC%84%9C%EA%B8%B0.cpp)
