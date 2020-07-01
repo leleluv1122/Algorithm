@@ -222,5 +222,17 @@
     <ClCompile Include="13711_LCS_4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="KMP.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10769_행복한지_슬픈지.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2668_숫자고르기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9084_동전.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
