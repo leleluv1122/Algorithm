@@ -234,5 +234,17 @@
     <ClCompile Include="9084_동전.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2565_전깃줄.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2352_반도체_설계.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2568_전깃줄2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1365_꼬인_전깃줄.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
