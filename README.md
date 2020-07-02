@@ -12,6 +12,13 @@
  <https://www.acmicpc.net/>
 
 ## 풀이 링크
+ - 1365 [꼬인 전깃줄](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1365_%EA%BC%AC%EC%9D%B8_%EC%A0%84%EA%B9%83%EC%A4%84.cpp)
+ - 2568 [전깃줄-2](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2568_%EC%A0%84%EA%B9%83%EC%A4%842.cpp)
+ - 2352 [반도체 설계](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2352_%EB%B0%98%EB%8F%84%EC%B2%B4_%EC%84%A4%EA%B3%84.cpp)
+ - 2565 [전깃줄](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2565_%EC%A0%84%EA%B9%83%EC%A4%84.cpp)
+ - 9084 [동전](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/9084_%EB%8F%99%EC%A0%84.cpp)
+ - 2668 [숫자고르기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2668_%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.cpp)
+ - 10769 [행복한지 슬픈지](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/10769_%ED%96%89%EB%B3%B5%ED%95%9C%EC%A7%80_%EC%8A%AC%ED%94%88%EC%A7%80.cpp)
  - 13711 [LCS 4](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/13711_LCS_4.cpp)
  - 1958 [LCS 3](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1958_LCS3.cpp)
  - 5582 [공통 부분 문자열](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/5582_%EA%B3%B5%ED%86%B5_%EB%B6%80%EB%B6%84_%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)
