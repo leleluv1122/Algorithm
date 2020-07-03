@@ -246,5 +246,14 @@
     <ClCompile Include="1365_꼬인_전깃줄.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2133_타일_채우기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14003_가장긴증가하는부분수열5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14002_가장긴증가하는부분수열4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
