@@ -12,6 +12,10 @@
  <https://www.acmicpc.net/>
 
 ## 풀이 링크
+ - 12852 [1로 만들기2](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/12852_1%EB%A1%9C_%EB%A7%8C%EB%93%A4%EA%B8%B02.cpp)
+ - 14002 [가장 긴 증가하는 부분 수열 4](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/14002_%EA%B0%80%EC%9E%A5%EA%B8%B4%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B44.cpp)
+ - 14003 [가장 긴 증가하는 부분 수열 5](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/14003_%EA%B0%80%EC%9E%A5%EA%B8%B4%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B45.cpp)
+ - 2133 [타일 채우기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2133_%ED%83%80%EC%9D%BC_%EC%B1%84%EC%9A%B0%EA%B8%B0.cpp)
  - 1365 [꼬인 전깃줄](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1365_%EA%BC%AC%EC%9D%B8_%EC%A0%84%EA%B9%83%EC%A4%84.cpp)
  - 2568 [전깃줄-2](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2568_%EC%A0%84%EA%B9%83%EC%A4%842.cpp)
  - 2352 [반도체 설계](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2352_%EB%B0%98%EB%8F%84%EC%B2%B4_%EC%84%A4%EA%B3%84.cpp)
