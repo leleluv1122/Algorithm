@@ -258,5 +258,14 @@
     <ClCompile Include="12852_1로_만들기2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2011_암호코드.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17404_RGB_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13549_숨바꼭질3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
