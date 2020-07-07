@@ -267,5 +267,14 @@
     <ClCompile Include="13549_숨바꼭질3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="13913_숨바꼭질4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2467_용액.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2075_N번쨰_큰_수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
