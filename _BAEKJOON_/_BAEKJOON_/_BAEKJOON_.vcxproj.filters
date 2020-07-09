@@ -285,5 +285,17 @@
     <ClCompile Include="1647_도시_분할_계획.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1922_네트워크_연결.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1197_최소_스패닝_트리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4195_친구_네트워크.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4386_별자리_만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
