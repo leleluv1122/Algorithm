@@ -309,5 +309,14 @@
     <ClCompile Include="2887_행성터널.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1717_집합의_표현.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1976_여행가자.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16562_친구비.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
