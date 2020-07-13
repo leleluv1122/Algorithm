@@ -1,96 +1,93 @@
-//// 먼말인지모루겟다..
-////#include <iostream>
-//#include <map>
-//#include <cstring>
-//#include <algorithm>
-//#include <string>
-//#include <queue>
-//
-//#define endl "\n"
-//#define MAX 100000
-//using namespace std;
-//
-//int arr[MAX + 1];
-//int height[MAX + 1];
-//
-//int friend_find(int a) {
-//	if (arr[a] == a)
-//		return a;
-//	else
-//		return arr[a] = friend_find(arr[a]);
-//}
-//
-//void friends(int a, int b) {
-//	int fa = friend_find(a);
-//	int fb = friend_find(b);
-//
-//	if (fa == fb)
-//		return;
-//
-//	if (height[fa] < height[fb]) {
-//		arr[fa] = fb;
-//		height[fb] += height[fa];
-//		height[fa] = height[fb];
-//	}
-//	else {
-//		arr[fb] = fa;
-//		height[fa] += height[fb];
-//		height[fb] = height[fa];
-//	}
-//}
-//
-//void input() {
-//	int T;
-//	cin >> T;
-//
-//	while (T--) {
-//		int n = 1, F;
-//		map<string, int> name;
-//		cin >> F;
-//
-//		for (int i = 0; i < MAX + 1; i++) {
-//			arr[i] = i;
-//			height[i] = 1;
-//		}
-//
-//		string a, b;
-//		for (int i = 0; i < F; i++) {
-//			cin >> a >> b;
-//
-//			if (name.count(a) == 0)
-//				name[a] = n++;
-//			if (name.count(b) == 0)
-//				name[b] = n++;
-//
-//			int aa = name[a];
-//			int bb = name[b];
-//
-//			int pa = friend_find(aa);
-//			int pb = friend_find(bb);
-//
-//			if (pa == pb)
-//				cout << max(height[pa], height[pb]) << endl;
-//			else {
-//				friends(pa, pb);
-//				cout << max(height[pa], height[pb]) << endl;
-//			}
-//		}
-//	}
-//}
-//
-//void init() {
-//	ios::sync_with_stdio(false);
-//	cin.tie(0);
-//	cout.tie(0);
-//}
-//
-//int main() {
-//	init();
-//	input();
-//}
+#include <iostream>
+#include <map>
+#include <algorithm>
+#include <string>
+
+#define endl "\n"
+#define MAX 100000
+using namespace std;
+
+int arr[MAX + 1];
+int height[MAX + 1];
+
+int find(int a) {
+	if (arr[a] == a)
+		return a;
+	return arr[a] = find(arr[a]);
+}
+
+void unions(int a, int b) {
+	a = find(a);
+	b = find(b);
+
+	if (a == b)
+		return;
+
+	if (height[a] < height[b]) {
+		arr[a] = b;
+		height[b] += height[a];
+		height[a] = height[b];
+	}
+	else {
+		arr[b] = a;
+		height[a] += height[b];
+		height[b] = height[a];
+	}
+}
+
+void input() {
+	int T;
+	cin >> T;
+
+	while (T--) {
+		int n = 1, F;
+		map<string, int> name;
+		cin >> F;
+
+		for (int i = 0; i < MAX + 1; i++) {
+			arr[i] = i;
+			height[i] = 1;
+		}
+
+		string s1, s2;
+		for (int i = 0; i < F; i++) {
+			cin >> s1 >> s2;
+
+			if (name.count(s1) == 0)
+				name[s1] = n++;
+			if (name.count(s2) == 0)
+				name[s2] = n++;
+
+			int a = name[s1];
+			int b = name[s2];
+
+			a = find(a);
+			b = find(b);
+
+			if (a == b)
+				cout << max(height[a], height[b]) << endl;
+			else {
+				unions(a, b);
+				cout << max(height[a], height[b]) << endl;
+			}
+		}
+	}
+}
+
+void init() {
+	ios::sync_with_stdio(false);
+	cin.tie(0);
+	cout.tie(0);
+}
+
+int main() {
+	init();
+	input();
+}
 
 
-////// 시간초과...
+
+///////// time out ////////
 //#include <iostream>
 //#include <map>
 //#include <cstring>
