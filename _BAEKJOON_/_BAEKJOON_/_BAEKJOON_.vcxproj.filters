@@ -336,5 +336,14 @@
     <ClCompile Include="2143_두_배열의_합.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="6118_숨바꼭질.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17144_미세먼지_안녕.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4153_직각삼각형.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
