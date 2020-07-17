@@ -345,5 +345,14 @@
     <ClCompile Include="4153_직각삼각형.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5567_결혼식.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1867_돌멩이제거.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9507_GOT.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
