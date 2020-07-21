@@ -354,5 +354,17 @@
     <ClCompile Include="9507_GOT.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1507_궁금한_민호.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2610_회의준비.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11562_백양로_브레이크.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6156_Cow_Contest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
