@@ -366,5 +366,17 @@
     <ClCompile Include="6156_Cow_Contest.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2748_피보나치_수2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2747_피보나치_수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2302_극장좌석.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14697_방_배정하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
