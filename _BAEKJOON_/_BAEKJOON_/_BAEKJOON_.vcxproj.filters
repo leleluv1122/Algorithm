@@ -387,5 +387,17 @@
     <ClCompile Include="4949_균형잡힌_세상.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11721_열_개씩_끊어_출력하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9012_괄호.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10773_제로.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5719_거의_최단_경로.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
