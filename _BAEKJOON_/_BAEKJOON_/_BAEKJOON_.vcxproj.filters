@@ -405,5 +405,14 @@
     <ClCompile Include="10451_순열사이클.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1058_친구.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1516_게임개발.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1766_문제집.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
