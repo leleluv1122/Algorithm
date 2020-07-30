@@ -414,5 +414,14 @@
     <ClCompile Include="1766_문제집.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2623_음악프로그램.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14442_벽_부수고_이동하기2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11758_CCW.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
