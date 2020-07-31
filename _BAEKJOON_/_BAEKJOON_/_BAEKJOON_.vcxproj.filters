@@ -423,5 +423,14 @@
     <ClCompile Include="11758_CCW.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1080_행렬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2437_저울.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1202_보석도둑.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
