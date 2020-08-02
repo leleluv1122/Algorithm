@@ -432,5 +432,14 @@
     <ClCompile Include="1202_보석도둑.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1620_나는야포켓몬마스터이다솜.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1927_최소_힙.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2630_색종이_만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
