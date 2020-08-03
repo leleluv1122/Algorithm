@@ -1,11 +1,9 @@
-﻿# Algorithm
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leleluv1122&repo=Algorithm&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+﻿[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leleluv1122&repo=Algorithm&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 알고리즘 연습하는중!!
  승히가 백준사이트의 알고리즘코드를 풀어보고 올리는 저장소입니당
 
- 주로 C++ 언어를 사용*^^*
+ C++ 언어를 사용*^^*
 
 ### 승희가 푼 문제 구경하러가기 Gogo
  <https://www.acmicpc.net/user/leleluv1122>
