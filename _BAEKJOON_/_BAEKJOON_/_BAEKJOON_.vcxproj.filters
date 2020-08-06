@@ -465,5 +465,14 @@
     <ClCompile Include="10818_최소최대.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1085_직사각형에서_탈출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1259_팰린드롬수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1920_수_찾기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
