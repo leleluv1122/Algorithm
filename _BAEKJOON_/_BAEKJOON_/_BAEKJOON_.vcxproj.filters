@@ -501,5 +501,14 @@
     <ClCompile Include="11866_요세푸스_문제0.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1676_팩토리얼_0의_개수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1780_종이의_개수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11286_절댓값_힙.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
