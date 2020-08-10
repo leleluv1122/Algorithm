@@ -510,5 +510,14 @@
     <ClCompile Include="11286_절댓값_힙.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1992_쿼드트리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5430_AC.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5525_IOIOI.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
