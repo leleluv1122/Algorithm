@@ -519,5 +519,17 @@
     <ClCompile Include="5525_IOIOI.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="6064_카잉_달력.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9375_패션왕_신해빈.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14500_테트로미노.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17219_비밀번호_찾기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
