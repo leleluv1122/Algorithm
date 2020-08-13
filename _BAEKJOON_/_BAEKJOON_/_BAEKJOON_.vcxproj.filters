@@ -543,5 +543,14 @@
     <ClCompile Include="15666_N과_M12.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10830_행렬제곱.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9935_문자열_폭발.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1874_스택_수열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
