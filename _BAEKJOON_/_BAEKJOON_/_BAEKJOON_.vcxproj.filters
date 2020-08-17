@@ -561,5 +561,11 @@
     <ClCompile Include="2023_신기한_소수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14620_꽃길.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3187_양치기_꿍.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
