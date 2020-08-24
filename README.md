@@ -1,25 +1,25 @@
 ﻿[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leleluv1122&repo=Algorithm&theme=vue)](https://github.com/leleluv1122/Algorithm)
 
-# Algorithm
+# 👩🏻‍💻 Algorithm 
  백준사이트 & 프로그래머스의 알고리즘코드를 풀어보고 올리는 저장소입니다.  
  C++ 언어를 사용합니다.
 
-# Programmers Algorithm
+# 📋 Programmers Algorithm
  <https://programmers.co.kr/learn/challenges>
 
-## Programmers 풀이 링크
+## 🗝 Programmers 풀이 링크
  - [타켓 넘버](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/target_number.cpp)
  - [네트워크](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.cpp)
  - [완주하지 못한 선수](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.cpp)
  - [Demo_TEST](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/demotest.cpp)
 
-# Baekjoon Online Judge 
+# 📋 Baekjoon Online Judge 
  <https://www.acmicpc.net/>
 
-## 푼 문제 구경하러 가기 
+## 😳 푼 문제 구경하러 가기 
  <https://www.acmicpc.net/user/leleluv1122>
 
-## BOJ 풀이 링크
+## 🗝 BOJ 풀이 링크
  - 17626 [Four Squares](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/17626_Four_Squares.cpp)
  - 10988 [펠린드롬인지 확인하기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/10988_%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%9D%B8%EC%A7%80%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.cpp)
  - 14226 [이모티콘](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/14226_%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98.cpp)
