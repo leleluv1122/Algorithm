@@ -1,22 +1,100 @@
 ﻿[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leleluv1122&repo=Algorithm&theme=vue)](https://github.com/leleluv1122/Algorithm)
 
-## 알고리즘 연습하는중!!
- 승히가 백준사이트의 알고리즘코드를 풀어보고 올리는 저장소입니당
+# Algorithm
+ 백준사이트 & 프로그래머스의 알고리즘코드를 풀어보고 올리는 저장소입니다.  
+ C++ 언어를 사용합니다.
 
- C++ 언어를 사용*^^*
+# Programmers Algorithm
+ <https://programmers.co.kr/learn/challenges>
 
-### 승희가 푼 문제 구경하러가기 Gogo
- <https://www.acmicpc.net/user/leleluv1122>
+## Programmers 풀이 링크
+ - [타켓 넘버](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/target_number.cpp)
+ - [네트워크](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.cpp)
+ - [완주하지 못한 선수](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.cpp)
+ - [Demo_TEST](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/demotest.cpp)
 
-## Baekjoon Online Judge 
+# Baekjoon Online Judge 
  <https://www.acmicpc.net/>
 
-## 풀이 링크
-- 1202 [보석 도둑](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1202_%EB%B3%B4%EC%84%9D%EB%8F%84%EB%91%91.cpp)
-- 2437 [저울](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2437_%EC%A0%80%EC%9A%B8.cpp)
-- 1080 [행렬](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1080_%ED%96%89%EB%A0%AC.cpp)
-- 11758 [CCW](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/11758_CCW.cpp)
-- 14442 [벽 부수고 이동하기 2](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/14442_%EB%B2%BD_%EB%B6%80%EC%88%98%EA%B3%A0_%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B02.cpp)
+## 푼 문제 구경하러 가기 
+ <https://www.acmicpc.net/user/leleluv1122>
+
+## BOJ 풀이 링크
+ - 17626 [Four Squares](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/17626_Four_Squares.cpp)
+ - 10988 [펠린드롬인지 확인하기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/10988_%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%9D%B8%EC%A7%80%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.cpp)
+ - 14226 [이모티콘](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/14226_%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98.cpp)
+ - 1525 [퍼즐](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1525_%ED%8D%BC%EC%A6%90.cpp)
+ - 10942 [펠린드롬?](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/10942_%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.cpp)
+ - 1373 [2진수 8진수](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1373_2%EC%A7%84%EC%88%988%EC%A7%84%EC%88%98.cpp)
+ - 10798 [세로읽기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/10798_%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0.cpp)
+ - 1032 [명령 프롬프트](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1032_%EB%AA%85%EB%A0%B9_%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.cpp)
+ - 2902 [KMP는 왜 KMP일까?](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2902_KMP.cpp)
+ - 11719 [그대로 출력하기 2](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/11719_%EA%B7%B8%EB%8C%80%EB%A1%9C%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B02.cpp)
+ - 10808 [알파벳 개수](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/10808_%EC%95%8C%ED%8C%8C%EB%B2%B3%EA%B0%9C%EC%88%98.cpp)
+ - 2743 [단어 길이 재기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2743_%EB%8B%A8%EC%96%B4%EA%B8%B8%EC%9D%B4%EC%9E%AC%EA%B8%B0.cpp)
+ - 10953 [A+B - 6](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/10953_A%2BB6.cpp)
+ - 2442 [별 찍기5](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2442_%EB%B3%84%EC%B0%8D%EA%B8%B05.cpp)
+ - 1158 [요세푸스 문제](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1158_%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4_%EB%AC%B8%EC%A0%9C.cpp)
+ - 15829 [Hashing](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/15829_Hashing.cpp)
+ - 2869 [달팽이는 올라가고 싶다](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2869_%EB%8B%AC%ED%8C%BD%EC%9D%B4%EB%8A%94_%EC%98%AC%EB%9D%BC%EA%B0%80%EA%B3%A0%EC%8B%B6%EB%8B%A4.cpp)
+ - 2775 [부녀회장이 될테야](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2775_%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4_%EB%90%A0%ED%85%8C%EC%95%BC.cpp)
+ - 2108 [통계학](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2108_%ED%86%B5%EA%B3%84%ED%95%99.cpp)
+ - 3052 [나머지](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/3052_%EB%82%98%EB%A8%B8%EC%A7%80.cpp)
+ - 2753 [윤년](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2753_%EC%9C%A4%EB%85%84.cpp)
+ - 2475 [검증수](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2457_%EA%B2%80%EC%A6%9D%EC%88%98.cpp)
+ - 1157 [단어 공부](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1157_%EB%8B%A8%EC%96%B4%EA%B3%B5%EB%B6%80.cpp)
+ - 1152 [단어의 개수](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1152_%EB%8B%A8%EC%96%B4%EC%9D%98_%EA%B0%9C%EC%88%98.cpp)
+ - 1009 [분산처리](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1009_%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC.cpp)
+ - 1094 [막대기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1094_%EB%A7%89%EB%8C%80%EA%B8%B0.cpp)
+ - 1546 [평균](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1546_%ED%8F%89%EA%B7%A0.cpp)
+ - 3187 [양치기 꿍](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/3187_%EC%96%91%EC%B9%98%EA%B8%B0_%EA%BF%8D.cpp)
+ - 14620 [꽃길](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/14620_%EA%BD%83%EA%B8%B8.cpp)
+ - 2023 [신기한 소수](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2023_%EC%8B%A0%EA%B8%B0%ED%95%9C_%EC%86%8C%EC%88%98.cpp)
+ - 1926 [그림](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1926_%EA%B7%B8%EB%A6%BC.cpp)
+ - 2210 [숫자판 점프](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2210_%EC%88%AB%EC%9E%90%ED%8C%90%EC%A0%90%ED%94%84.cpp)
+ - 1874 [스택 수열](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1874_%EC%8A%A4%ED%83%9D_%EC%88%98%EC%97%B4.cpp)
+ - 9935 [문자열 폭발](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/9935_%EB%AC%B8%EC%9E%90%EC%97%B4_%ED%8F%AD%EB%B0%9C.cpp)
+ - 10830 [행렬 제곱](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/10830_%ED%96%89%EB%A0%AC%EC%A0%9C%EA%B3%B1.cpp)
+ - 15666 [N과 M12](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/15666_N%EA%B3%BC_M12.cpp)
+ - 17070 [파이프 옮기기 1](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/17070_%ED%8C%8C%EC%9D%B4%ED%94%84_%EC%98%AE%EA%B8%B0%EA%B8%B01.cpp)
+ - 2096 [내려가기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2096_%EB%82%B4%EB%A0%A4%EA%B0%81.cpp)
+ - 17219 [비밀번호 찾기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/17219_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8_%EC%B0%BE%EA%B8%B0.cpp)
+ - 14500 [테트로미노](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/14500_%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.cpp)
+ - 9375 [패션왕 신해빈](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/9375_%ED%8C%A8%EC%85%98%EC%99%95_%EC%8B%A0%ED%95%B4%EB%B9%88.cpp)
+ - 5525 [IOIOI](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/5525_IOIOI.cpp)
+ - 5430 [AC](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/5430_AC.cpp)
+ - 1992 [쿼드트리](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1992_%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.cpp)
+ - 11286 [절댓값 힙](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/11286_%EC%A0%88%EB%8C%93%EA%B0%92_%ED%9E%99.cpp)
+ - 1780 [종이의 개수](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1780_%EC%A2%85%EC%9D%B4%EC%9D%98_%EA%B0%9C%EC%88%98.cpp)
+ - 1676 [팩토리얼 0의 개수](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1676_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC_0%EC%9D%98_%EA%B0%9C%EC%88%98.cpp)
+ - 11866 [오세푸스 문제 0](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/11866_%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4_%EB%AC%B8%EC%A0%9C0.cpp)
+ - 11050 [이항 계수 1](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/11050_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%981.cpp)
+ - 10866 [덱](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/10866_%EB%8D%B1.cpp)
+ - 10845 [큐](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/10845_%ED%81%90.cpp)
+ - 10828 [스택](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/10828_%EC%8A%A4%ED%83%9D.cpp)
+ - 10250 [ACM 호텔](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/10250_ACM%ED%98%B8%ED%85%94.cpp)
+ - 2609 [최대공약수와 최소공배수](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2609_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.cpp)
+ - 2164 [카드2](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2164_%EC%B9%B4%EB%93%9C2.cpp)
+ - 1978 [소수 찾기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1978_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.cpp)
+ - 1920 [수 찾기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1920_%EC%88%98_%EC%B0%BE%EA%B8%B0.cpp)
+ - 1259 [펠린드롬수](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1259_%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98.cpp)
+ - 1085 [직사각형에서 탈출](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1085_%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C_%ED%83%88%EC%B6%9C.cpp)
+ - 10818 [최소, 최대](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/10818_%EC%B5%9C%EC%86%8C%EC%B5%9C%EB%8C%80.cpp)
+ - 8958 [OX퀴즈](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/8958_OX%ED%80%B4%EC%A6%88.cpp)
+ - 2920 [음계](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2920_%EC%9D%8C%EA%B3%84.cpp)
+ - 1008 [A/B](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1008_A_B.cpp)
+ - 18870 [좌표 압축](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/18870_%EC%A2%8C%ED%91%9C%EC%95%95%EC%B6%95.cpp)
+ - 11723 [집합](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/11723_%EC%A7%91%ED%95%A9.cpp)
+ - 7662 [이중 우선순위 큐](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/7662_%EC%9D%B4%EC%A4%91_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84_%ED%81%90.cpp)
+ - 11279 [최대 힙](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/11279_%EC%B5%9C%EB%8C%80%ED%9E%99.cpp)
+ - 2630 [색종이 만들기](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2630_%EC%83%89%EC%A2%85%EC%9D%B4_%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+ - 1927 [최소 힙](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1927_%EC%B5%9C%EC%86%8C_%ED%9E%99.cpp)
+ - 1620 [나는야 포켓몬 마스터 이다솜](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1620_%EB%82%98%EB%8A%94%EC%95%BC%ED%8F%AC%EC%BC%93%EB%AA%AC%EB%A7%88%EC%8A%A4%ED%84%B0%EC%9D%B4%EB%8B%A4%EC%86%9C.cpp)
+ - 1202 [보석 도둑](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1202_%EB%B3%B4%EC%84%9D%EB%8F%84%EB%91%91.cpp)
+ - 2437 [저울](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2437_%EC%A0%80%EC%9A%B8.cpp)
+ - 1080 [행렬](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1080_%ED%96%89%EB%A0%AC.cpp)
+ - 11758 [CCW](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/11758_CCW.cpp)
+ - 14442 [벽 부수고 이동하기 2](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/14442_%EB%B2%BD_%EB%B6%80%EC%88%98%EA%B3%A0_%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B02.cpp)
  - 2623 [음악프로그램](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/2623_%EC%9D%8C%EC%95%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.cpp)
  - 1766 [문제집](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1766_%EB%AC%B8%EC%A0%9C%EC%A7%91.cpp)
  - 1516 [게임 개발](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/1516_%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C.cpp)
