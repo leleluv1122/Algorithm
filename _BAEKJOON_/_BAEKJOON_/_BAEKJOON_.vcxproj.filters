@@ -660,5 +660,14 @@
     <ClCompile Include="네트워크.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="단어변환.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="모의고사.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="체육복.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
