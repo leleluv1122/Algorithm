@@ -8,6 +8,9 @@
  <https://programmers.co.kr/learn/challenges>
 
 ## 🗝 Programmers 풀이 링크
+ - [체육복](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EC%B2%B4%EC%9C%A1%EB%B3%B5.cpp)
+ - [모의고사](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.cpp)
+ - [단어변환](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.cpp)
  - [타켓 넘버](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/target_number.cpp)
  - [네트워크](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.cpp)
  - [완주하지 못한 선수](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.cpp)
