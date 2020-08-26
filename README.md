@@ -8,6 +8,9 @@
  <https://programmers.co.kr/learn/challenges>
 
 ## 🗝 Programmers 풀이 링크
+ - [주식가격](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.cpp)
+ - [정수삼각형](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.cpp)
+ - [가장먼노드](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EA%B0%80%EC%9E%A5%EB%A8%BC%EB%85%B8%EB%93%9C.cpp)
  - [체육복](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EC%B2%B4%EC%9C%A1%EB%B3%B5.cpp)
  - [모의고사](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.cpp)
  - [단어변환](https://github.com/leleluv1122/Algorithm/blob/master/_BAEKJOON_/_BAEKJOON_/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.cpp)
