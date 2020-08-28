@@ -8,6 +8,9 @@
  <https://programmers.co.kr/learn/challenges>
 
 ## 🗝 Programmers 풀이 링크
+ - [가장 먼 노드](https://github.com/leleluv1122/Algorithm/blob/21f176872beeb8f9c337f166f6e04ae05407872e/Programmers/Programmers/Programmers/lv3_p2.cpp)
+ - [줄 서는 방법](https://github.com/leleluv1122/Algorithm/blob/21f176872beeb8f9c337f166f6e04ae05407872e/Programmers/Programmers/Programmers/lv3_p1.cpp)
+ - [소수 찾기](https://github.com/leleluv1122/Algorithm/blob/21f176872beeb8f9c337f166f6e04ae05407872e/Programmers/Programmers/Programmers/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.cpp)
  - [압축](https://github.com/leleluv1122/Algorithm/blob/master/Programmers/Programmers/Programmers/lv2_p2.cpp)
  - [올바른 괄호](https://github.com/leleluv1122/Algorithm/blob/master/Programmers/Programmers/Programmers/lv2_p1.cpp)
  - [기능개발](https://github.com/leleluv1122/Algorithm/blob/master/Programmers/Programmers/Programmers/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.cpp)
