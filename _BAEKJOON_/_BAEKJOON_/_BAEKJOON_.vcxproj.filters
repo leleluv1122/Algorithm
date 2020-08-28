@@ -678,5 +678,14 @@
     <ClCompile Include="주식가격.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="7287_구현.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11718_그대로출력하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5622_다이얼.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
