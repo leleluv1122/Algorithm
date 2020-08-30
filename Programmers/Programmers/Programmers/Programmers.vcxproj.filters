@@ -33,5 +33,14 @@
     <ClCompile Include="lv3_p2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="실패율.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="오픈채팅방.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="길_찾기_게임.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -687,5 +687,14 @@
     <ClCompile Include="5622_다이얼.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1475_방번호.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3046_R2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2443_별찍기6.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
