@@ -696,5 +696,11 @@
     <ClCompile Include="2443_별찍기6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2444_별찍기7.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1977_완전제곱수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
