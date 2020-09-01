@@ -45,5 +45,8 @@
     <ClCompile Include="무지의먹방라이브.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="더맵게.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
