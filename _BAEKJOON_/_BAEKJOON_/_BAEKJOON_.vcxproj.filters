@@ -711,5 +711,14 @@
     <ClCompile Include="2960_에라토스테네스의체.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2953_나는요리사.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10886_0notcute_1cute.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2576_홀수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
