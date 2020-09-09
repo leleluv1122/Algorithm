@@ -144,5 +144,17 @@
     <ClCompile Include="방문길이.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="소수만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="예싼.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="영어끝말잇기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="점프와_순간이동.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
