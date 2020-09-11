@@ -726,5 +726,17 @@
     <ClCompile Include="5565_영수증.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2020_플러그.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5337_웰컴.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1076_저항.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10824_네수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
