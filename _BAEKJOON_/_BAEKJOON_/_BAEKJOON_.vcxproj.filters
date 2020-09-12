@@ -738,5 +738,11 @@
     <ClCompile Include="10824_네수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5339_콜센터.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2504_괄호의값.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
