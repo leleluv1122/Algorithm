@@ -765,5 +765,8 @@
     <ClCompile Include="P6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9093_단어뒤집기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
