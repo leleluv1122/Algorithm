@@ -780,5 +780,11 @@
     <ClCompile Include="11365_!밀비_급일.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1159_농구경기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2935_소음.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
