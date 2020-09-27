@@ -138,6 +138,9 @@
     <ClCompile Include="lv3_p2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="NAVER1.cpp" />
+    <ClCompile Include="NAVER2.cpp" />
+    <ClCompile Include="NAVER3.cpp" />
     <ClCompile Include="P1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

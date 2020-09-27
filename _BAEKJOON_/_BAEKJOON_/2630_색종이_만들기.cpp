@@ -31,7 +31,7 @@ void color_paper(int a, int b, int Na, int Nb) {
 	}
 	if (ck == 0) 
 		++A;
-	else if (ck == 1)
+	else
 		++B;
 	return;
 }
@@ -45,6 +45,5 @@ int main() {
 
 	color_paper(0, 0, N, N);
 
-	cout << A << endl;
-	cout << B << endl;
+	cout << A << endl << B << endl;
 }
