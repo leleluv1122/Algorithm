@@ -42,35 +42,35 @@ vector<int> solution(int n, vector<vector<int>> edges) {
 	return answer;
 }
 
-int main() {
-	vector<vector<int>> v;
-	v.resize(8);
-
-	v[0].push_back(0);
-	v[0].push_back(2);
-
-	v[1].push_back(2);
-	v[1].push_back(1);
-
-	v[2].push_back(2);
-	v[2].push_back(4);
-
-	v[3].push_back(3);
-	v[3].push_back(5);
-
-	v[4].push_back(5);
-	v[4].push_back(4);
-
-	v[5].push_back(5);
-	v[5].push_back(7);
-
-	v[6].push_back(7);
-	v[6].push_back(6);
-
-	v[7].push_back(6);
-	v[7].push_back(8);
-
-	vector<int> ans = solution(9, v);
-	for (int i = 0; i < ans.size(); i++)
-		cout << ans[i] << " ";
-}
+//int main() {
+//	vector<vector<int>> v;
+//	v.resize(8);
+//
+//	v[0].push_back(0);
+//	v[0].push_back(2);
+//
+//	v[1].push_back(2);
+//	v[1].push_back(1);
+//
+//	v[2].push_back(2);
+//	v[2].push_back(4);
+//
+//	v[3].push_back(3);
+//	v[3].push_back(5);
+//
+//	v[4].push_back(5);
+//	v[4].push_back(4);
+//
+//	v[5].push_back(5);
+//	v[5].push_back(7);
+//
+//	v[6].push_back(7);
+//	v[6].push_back(6);
+//
+//	v[7].push_back(6);
+//	v[7].push_back(8);
+//
+//	vector<int> ans = solution(9, v);
+//	for (int i = 0; i < ans.size(); i++)
+//		cout << ans[i] << " ";
+//}
