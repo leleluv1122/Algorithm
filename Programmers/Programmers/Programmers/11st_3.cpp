@@ -36,6 +36,10 @@ int solution(vector<int>& A) {
 
 int main() {
 	vector<int> v;
+
+	/*for (int i = 0; i < 44722; i++)
+		v.push_back(1);*/
+
 	/*v.push_back(1);
 	v.push_back(2);
 	v.push_back(1);*/

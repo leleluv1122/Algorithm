@@ -27,10 +27,10 @@ int solution(string &S) {
 	return ans;
 }
 
-//int main() {
-//	//string s = "aabab";
-//	//string s = "dog";
-//	//string s = "aa";
-//	string s = "baaaa";
-//	cout << solution(s);
-//}
+int main() {
+	string s = "aabab";
+	////string s = "dog";
+	////string s = "aa";
+	//string s = "baaaa";
+	cout << solution(s);
+}
