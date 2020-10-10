@@ -192,5 +192,17 @@
     <ClCompile Include="11st_3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="COUPANG1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="COUPANG2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="COUPANG3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="COUPANG4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
