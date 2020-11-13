@@ -204,5 +204,11 @@
     <ClCompile Include="COUPANG4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="올바른괄호.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="다음큰숫자.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
