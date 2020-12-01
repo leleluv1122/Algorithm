@@ -807,5 +807,11 @@
     <ClCompile Include="15649_N과M1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="18258_큐2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1021_회전하는큐.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
