@@ -855,5 +855,11 @@
     <ClCompile Include="11279_최대_힙.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11286_절댓값+힙.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10026_적록색약.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
