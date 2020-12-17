@@ -861,5 +861,11 @@
     <ClCompile Include="10026_적록색약.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9205_맥주마시면서+걸어가기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11047_동전+0.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
