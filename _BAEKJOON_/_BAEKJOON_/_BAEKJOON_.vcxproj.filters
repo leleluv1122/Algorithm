@@ -930,5 +930,20 @@
     <ClCompile Include="2252_줄세우기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1916_최소비용구하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1389_케빈베이컨6단계법칙.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7576_토마토ㅗ.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10451_순열_사이클.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1325_효율적인해킹.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
