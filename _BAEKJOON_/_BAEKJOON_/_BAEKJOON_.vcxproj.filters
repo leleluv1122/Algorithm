@@ -945,5 +945,20 @@
     <ClCompile Include="1325_효율적인해킹.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1766_문제집ㅂ.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9019_DSLR.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1238_파티.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1753_최단경로.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1525_퍼즐ㄹ.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
